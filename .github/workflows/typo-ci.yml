@@ -1,7 +1,6 @@
 name: Typo CI
 on:
   push:
-    branches-ignore:
 jobs:
   spellcheck:
     name: Typo CI (GitHub Action)
